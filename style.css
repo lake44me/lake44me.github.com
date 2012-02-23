@@ -1,0 +1,17 @@
+body
+{
+    /* background-color:#d0e4fe;  */
+    background-color:yellow;
+    font-family:"Arial";
+}
+h1
+{
+    color:navy;
+    text-align:center;
+}
+p
+{
+    font-family:"Arial";
+    font-size:20px;
+}
+
